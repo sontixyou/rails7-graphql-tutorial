@@ -1,24 +1,10 @@
-# README
+## How to setup and start Rails  server
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+```
+git clone this_repository
+cd this_repository
+rails s
+```
 
-Things you may want to cover:
+access `http://localhost:3000/graphql`
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
