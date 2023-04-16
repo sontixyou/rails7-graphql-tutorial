@@ -6,5 +6,5 @@ cd this_repository
 rails s
 ```
 
-access `http://localhost:3000/graphql`
+access `http://localhost:3000/graphiql`
 
